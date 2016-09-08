@@ -8,7 +8,11 @@ describe('App' , () => {
     component = renderComponent(App);
   });
 
-  it('renders something', () => {
-    expect(component).to.exist;
+  it('shows a navbar', () => {
+    expect(component.find('nav')).to.exist;
+  });
+
+  it('has a container', () => {
+    expect(component.find('.container')).to.exist;
   });
 });
