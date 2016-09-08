@@ -5,3 +5,5 @@
 ***
 
 ### Starter blog template using React and Redux
+
+![](https://react-redux.herokuapp.com/logo.jpg)
