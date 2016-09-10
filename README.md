@@ -2,9 +2,12 @@
 
 [![Build Status](https://travis-ci.org/dankreiger/react-blog.svg?branch=master)](https://travis-ci.org/dankreiger/react-blog)
 
+###### Starter blog template using React and Redux
+
+![React Redux Blog](https://i.imgflip.com/1acuvp.gif)
+
 ***
 
-### Starter blog template using React and Redux
 
 1. Clone the repo.
   ```bash
@@ -21,5 +24,3 @@
   ```
 
 4. View your blog at http://localhost:8080/.
-
-  ![React Redux Blog](https://i.imgflip.com/1acuvp.gif)
