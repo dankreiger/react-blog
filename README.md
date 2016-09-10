@@ -10,18 +10,18 @@
 
 
 1. Clone the repo.
-```bash
-$ git clone https://github.com/dankreiger/react-blog.git
-```
+  ```bash
+  $ git clone https://github.com/dankreiger/react-blog.git
+  ```
 
 2. Install the dependencies.
-```bash
-$ npm install
-```
+  ```bash
+  $ npm install
+  ```
 
 3. Start the webpack dev server.
-```bash
-$ npm start
-```
+  ```bash
+  $ npm start
+  ```
 
 4. View your blog at http://localhost:8080/.
