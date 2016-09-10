@@ -24,4 +24,4 @@
   $ npm start
   ```
 
-4. View your blog at http://localhost:8080/.
+4. View your blog at [http://localhost:8080/](http://localhost:8080/).
